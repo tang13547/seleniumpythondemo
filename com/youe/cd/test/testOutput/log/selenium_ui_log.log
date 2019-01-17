@@ -1,0 +1,51 @@
+2019-01-10 13:33:51,808 - Root - INFO - mail测试log001
+2019-01-10 13:34:05,349 - Root - INFO - mail测试log001
+2019-01-10 13:44:23,286 - Root - INFO - mail测试log001
+2019-01-10 18:12:31,480 - Root - INFO - mail测试log001
+2019-01-10 18:12:45,050 - Root - INFO - mail测试log001
+2019-01-10 18:15:09,232 - Root - INFO - mail测试log001
+2019-01-10 18:15:23,022 - Root - INFO - mail测试log001
+2019-01-10 18:20:42,587 - Root - INFO - mail测试log001
+2019-01-10 18:20:56,138 - Root - INFO - mail测试log001
+2019-01-11 13:39:22,915 - Root - INFO - mail测试log001
+2019-01-11 13:39:32,581 - Root - INFO - mail测试log001
+2019-01-11 14:31:48,011 - Root - INFO - mail测试log001
+2019-01-11 14:31:56,852 - Root - INFO - mail测试log001
+2019-01-11 14:59:19,238 - Root - INFO - mail测试log001
+2019-01-11 14:59:27,987 - Root - INFO - mail测试log001
+2019-01-11 15:16:35,143 - Root - INFO - mail测试log001 for info
+2019-01-11 15:16:35,144 - Root - WARNING - mail测试log002 for warn
+2019-01-11 15:16:35,144 - Root - ERROR - mail测试log003 for error
+2019-01-11 15:16:43,957 - Root - INFO - mail测试log001 for info
+2019-01-11 15:16:43,957 - Root - WARNING - mail测试log002 for warn
+2019-01-11 15:16:43,957 - Root - ERROR - mail测试log003 for error
+2019-01-11 16:16:23,801 - Root - INFO - mail测试log001 for info
+2019-01-11 16:16:23,802 - Root - WARNING - mail测试log002 for warn
+2019-01-11 16:16:23,802 - Root - ERROR - mail测试log003 for error
+2019-01-11 16:16:32,630 - Root - INFO - mail测试log001 for info
+2019-01-11 16:16:32,630 - Root - WARNING - mail测试log002 for warn
+2019-01-11 16:16:32,630 - Root - ERROR - mail测试log003 for error
+2019-01-11 16:18:37,989 - Root - INFO - mail测试log001 for info
+2019-01-11 16:18:37,990 - Root - WARNING - mail测试log002 for warn
+2019-01-11 16:18:37,990 - Root - ERROR - mail测试log003 for error
+2019-01-11 16:18:46,763 - Root - INFO - mail测试log001 for info
+2019-01-11 16:18:46,763 - Root - WARNING - mail测试log002 for warn
+2019-01-11 16:18:46,763 - Root - ERROR - mail测试log003 for error
+2019-01-11 16:39:08,179 - Root - INFO - mail测试log001 for info
+2019-01-11 16:39:08,180 - Root - WARNING - mail测试log002 for warn
+2019-01-11 16:39:08,180 - Root - ERROR - mail测试log003 for error
+2019-01-11 16:39:18,392 - Root - INFO - mail测试log001 for info
+2019-01-11 16:39:18,392 - Root - WARNING - mail测试log002 for warn
+2019-01-11 16:39:18,392 - Root - ERROR - mail测试log003 for error
+2019-01-11 16:56:01,819 - Root - INFO - mail测试log001 for info
+2019-01-11 16:56:01,820 - Root - WARNING - mail测试log002 for warn
+2019-01-11 16:56:01,820 - Root - ERROR - mail测试log003 for error
+2019-01-11 16:56:10,647 - Root - INFO - mail测试log001 for info
+2019-01-11 16:56:10,647 - Root - WARNING - mail测试log002 for warn
+2019-01-11 16:56:10,647 - Root - ERROR - mail测试log003 for error
+2019-01-14 10:17:24,648 - Root - INFO - mail测试log001 for info
+2019-01-14 10:17:24,650 - Root - WARNING - mail测试log002 for warn
+2019-01-14 10:17:24,650 - Root - ERROR - mail测试log003 for error
+2019-01-14 10:17:33,565 - Root - INFO - mail测试log001 for info
+2019-01-14 10:17:33,565 - Root - WARNING - mail测试log002 for warn
+2019-01-14 10:17:33,565 - Root - ERROR - mail测试log003 for error
